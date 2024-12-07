@@ -10,6 +10,7 @@
     * [Business Problem](#business-problem)
     * [Approach & Methodology](#approach-and-methodology)
     * [Key Insights & Outcomes](#key-insights-and-outcomes)
+    * [Business Related Terms](#business-related-terms)
     * [Technical Details](#technical-details)
     * [Key Learnings](#key-learnings)
 
@@ -21,11 +22,29 @@ AtliQ Hardware is committed to delivering reliable and innovative hardware solut
 
 ### Project Overview
 
+**AtliQ Hardware** has experienced significant growth in recent years. To maintain this momentum and gain a competitive edge, they've decided to leverage the power of data analytics. By implementing PowerBI, AtliQ aims to make data-driven decisions that will positively impact their finance, sales, marketing, and supply chain operations. This initiative is expected to provide valuable insights to stakeholders across all departments.
+
 #### Business Problem
 
 #### Approach and Methodology
 
 #### Key Insights and Outcomes
+
+#### Business Related Terms
+- **Gross Price:** The original selling price before any discounts or reductions.
+- **Pre-Invoice Deductions:** Discounts applied before the final bill is created.
+- **Post-Invoice Deductions:** Additional discounts or adjustments made after the bill is issued.
+- **Net Invoice Sale:** The final amount on the bill after all deductions are applied.
+- **Gross Margin:** The difference between selling price and cost of production, shown as a percentage.
+- **Net Sales:** Total sales minus all returns, discounts, and deductions.
+- **Net Profit:** The money left over after subtracting all expenses from total revenue.
+- **COGS (Cost of Goods Sold):** The direct cost of producing the products sold by a company.
+- **YTD (Year to Date):** The total amount accumulated from the start of the current year until now.
+- **YTG (Year to Go):** The remaining period until the end of the current financial year.
+- **Direct:** Selling products straight to the end customer without intermediaries.
+- **Retailer:** A business that sells products directly to consumers.
+- **Distributors:** Companies that buy products from manufacturers and sell to retailers.
+- **Consumer:** The final person who buys and uses the product.
 
 #### Technical Details
 - **MySQL:** Utilized SQL databases to manage millions of rows of data, subsequently connecting them to Power BI.
