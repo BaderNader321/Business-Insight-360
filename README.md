@@ -5,7 +5,7 @@
   * [LinkedIn Post](https://www.linkedin.com/posts/badernader_business-insight-360-activity-7264969422296031232-T1a7?utm_source=share&utm_medium=member_desktop)
 
 ### Table of Contents
-* [Company Details](#CompanyDetails)
+* [Company Details](#ompanyDetails)
 * [Project Overview](#ProjectOverview)
     * [Business Problem](#BusinessProblem)
     * [Approach & Methodology](#Approach&Methodology)
