@@ -6,12 +6,36 @@
 
 ### Table of Contents
 * [Company Details](#company-details)
-* [Project Overview](#ProjectOverview)
-    * [Business Problem](#BusinessProblem)
-    * [Approach & Methodology](#Approach&Methodology)
-    * [Key Insights & Outcomes](#KeyInsights&Outcomes)
-    * [Technical Details](#TechnicalDetails)
-    * [Key Learnings](#KeyLearnings)
+* [Project Overview](#project-overview)
+    * [Business Problem](#business-problem)
+    * [Approach & Methodology](#approach-&-methodology)
+    * [Key Insights & Outcomes](#key-insights-&-Outcomes)
+    * [Technical Details](#technical-details)
+    * [Key Learnings](#key-learnings)
 
 ### Company Details
+
+### Project Overview
+
+#### Business Problem
+
+#### Approach & Methodology
+
+#### Key Insights & Outcomes
+
+#### Technical Details
+- **MySQL:** Utilized SQL databases to manage millions of rows of data, subsequently connecting them to Power BI.
+- **Power Query:** Employed Power Query for data transformation, cleaning, and merging multiple tables.
+- **Microsoft Excel:** Leveraged Excel to incorporate smaller, yet crucial datasets like targets, operating expenses, and market share data.
+- **Microsoft Power BI:** Primarily utilized Power BI for analytics and dashboard development to address business challenges.
+- **DAX Studio:** Employed DAX Studio to optimize report performance and accelerate response times across various dashboards.
+
+#### Key Learnings
+- **Data Integration:** Connected data seamlessly from MySQL and Excel.
+- **ETL Process:** Cleaned and transformed data using Power Query.
+- **Data Modelling:** Designed Star and Snowflake schemas to connect related tables.
+- **Advanced Analytics:** Created calculated columns and DAX measures for deeper insights.
+- **Interactive Dashboards:** Used buttons for intuitive navigation, applied bookmarks to switch between visuals dynamically, and designed dynamic headings that change based on filters.
+- **Visual Enhancements:** Leveraged conditional formatting for impactful storytelling.
+- **Real-Time Updates:** Configured automatic data refresh through the Power BI gateway.
 
