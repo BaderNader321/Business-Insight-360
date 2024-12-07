@@ -8,8 +8,8 @@
 * [Company Details](#company-details)
 * [Project Overview](#project-overview)
     * [Business Problem](#business-problem)
-    * [Approach & Methodology](#approach-&-methodology)
-    * [Key Insights & Outcomes](#key-insights-&-Outcomes)
+    * [Approach & Methodology](#approach-and-methodology)
+    * [Key Insights & Outcomes](#key-insights-and-Outcomes)
     * [Technical Details](#technical-details)
     * [Key Learnings](#key-learnings)
 
@@ -19,9 +19,9 @@
 
 #### Business Problem
 
-#### Approach & Methodology
+#### Approach and Methodology
 
-#### Key Insights & Outcomes
+#### Key Insights and Outcomes
 
 #### Technical Details
 - **MySQL:** Utilized SQL databases to manage millions of rows of data, subsequently connecting them to Power BI.
