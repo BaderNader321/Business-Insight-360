@@ -29,6 +29,10 @@
 - **Individual Consumers:** People purchasing hardware components for personal use.
 - **Businesses: Companies:** buying hardware solutions for their operations and projects, including top customers like Amazon, Neptune, Staples, and Walmart
 
+___
+
+[Back to the top](#business-insight-360)
+
 ### Project Overview
 
 **AtliQ Hardware** has experienced significant growth in recent years. To maintain this momentum and gain a competitive edge, they've decided to leverage the power of data analytics. By implementing PowerBI, AtliQ aims to make data-driven decisions that will positively impact their finance, sales, marketing, and supply chain operations. This initiative is expected to provide valuable insights to stakeholders across all departments.
@@ -75,6 +79,10 @@ During the project kickoff session, you will gain a clear understanding of the p
 - **Interactive Dashboards:** Used buttons for intuitive navigation, applied bookmarks to switch between visuals dynamically, and designed dynamic headings that change based on filters.
 - **Visual Enhancements:** Leveraged conditional formatting for impactful storytelling.
 - **Real-Time Updates:** Configured automatic data refresh through the Power BI gateway.
+
+___
+
+[Back to the top](#business-insight-360)
 
 ### Understanding the Datasets
 Understanding what data is available will be more helpful while doing analysis. before jumping on to the analysis get good understanding of what are data available.
@@ -163,13 +171,44 @@ Understanding what data is available will be more helpful while doing analysis. 
 
   - Post invoice deductions and other deductions details
 
+___
+
+[Back to the top](#business-insight-360)
+
 ### Dashboards
 **AtliQ Hardware** is committed to data-driven decision-making. To support this goal, we've developed a suite of PowerBI dashboards tailored to specific user needs.
 
-#### Dashboards:
 - **Finance View:** Provides insights into financial performance, including revenue, expenses, and profitability.
 - **Sales View:** Offers a comprehensive view of sales trends, customer behavior, and sales pipeline.
 - **Marketing View:** Delivers insights into marketing campaign effectiveness, customer acquisition, and customer retention.
 - **Supply Chain View:** Provides visibility into supply chain operations, inventory levels, and logistics performance.
 - **Executive View:** Presents a high-level overview of key performance indicators (KPIs) across all business functions.
+
+#### Home Page
+<br>
+<img src="https://github.com/BaderNader321/Business-Insight-360/blob/eeb539b51b969f448ce0ebe4f91bc33892b26a2d/Reports/2.png" class="center">
+
+#### Finance View
+<br>
+<img src="https://github.com/BaderNader321/Business-Insight-360/blob/eeb539b51b969f448ce0ebe4f91bc33892b26a2d/Reports/3.png" class="center">
+
+#### Sales View
+<br>
+<img src="https://github.com/BaderNader321/Business-Insight-360/blob/eeb539b51b969f448ce0ebe4f91bc33892b26a2d/Reports/4.png" class="center">
+
+#### Marketing View
+<br>
+<img src="https://github.com/BaderNader321/Business-Insight-360/blob/eeb539b51b969f448ce0ebe4f91bc33892b26a2d/Reports/5.png" class="center">
+
+#### Supply Chain View
+<br>
+<img src="https://github.com/BaderNader321/Business-Insight-360/blob/eeb539b51b969f448ce0ebe4f91bc33892b26a2d/Reports/6.png" class="center">
+
+#### Executive View
+<br>
+<img src="https://github.com/BaderNader321/Business-Insight-360/blob/eeb539b51b969f448ce0ebe4f91bc33892b26a2d/Reports/7.png" class="center">
+
+___
+
+[Back to the top](#business-insight-360)
 
