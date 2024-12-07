@@ -9,11 +9,15 @@
 * [Project Overview](#project-overview)
     * [Business Problem](#business-problem)
     * [Approach & Methodology](#approach-and-methodology)
-    * [Key Insights & Outcomes](#key-insights-and-Outcomes)
+    * [Key Insights & Outcomes](#key-insights-and-outcomes)
     * [Technical Details](#technical-details)
     * [Key Learnings](#key-learnings)
 
 ### Company Details
+
+**AtliQ Hardware** is a prominent electronics accessories company that specializes in providing a wide range of hardware solutions to customers. They focus on offering high-quality electronic components and accessories for various applications, catering to both individual consumers and businesses1. Their product lineup includes items such as connectors, cables, circuit boards, and other essential hardware components that are crucial for electronic devices and systems.
+
+AtliQ Hardware is committed to delivering reliable and innovative hardware solutions that meet the evolving needs of their customers. They emphasize quality and performance, ensuring that their products are durable and efficient. By providing a diverse range of electronic accessories, AtliQ Hardware helps businesses and individuals enhance their technological capabilities and streamline their operations.
 
 ### Project Overview
 
