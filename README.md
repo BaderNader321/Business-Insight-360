@@ -49,6 +49,30 @@ During the project kickoff session, you will gain a clear understanding of the p
 #### Presentation
 
 #### Approach and Methodology
+To deliver actionable insights for AtliQ Hardware, the project followed a systematic approach:
+
+1. **Understanding Business Objectives**  
+   Collaborated with stakeholders to identify key business challenges, such as financial losses and competitive gaps, and established clear project goals.  
+
+2. **Data Collection and Cleaning**  
+   Gathered data from multiple sources, including MySQL and Excel files. Used Power Query to clean and transform the data, handling missing values, duplicates, inaccuracies, and outliers 
+   for consistency and reliability.  
+
+3. **Data Modelling**  
+   Developed a robust data model using Star and Snowflake schemas to efficiently organize relationships between fact and dimension tables, enabling streamlined analysis.  
+
+4. **Analytics**  
+   Leveraged Power BI for creating dashboards, utilizing DAX measures, calculated columns, and visual storytelling techniques to uncover key insights.  
+
+5. **Dashboard Customization**  
+   Designed tailored dashboards to meet specific departmental needs—finance, sales, marketing, supply chain, and executive functions. Incorporated features like dynamic headings,    
+   conditional formatting, and bookmarks for a seamless user experience.  
+
+6. **Iterative Refinement**  
+   Regularly reviewed and optimized reports and dashboards based on stakeholder feedback, ensuring alignment with business requirements and usability standards.  
+
+7. **Actionable Insights and Recommendations**  
+   Delivered insights on financial performance, sales trends, marketing effectiveness, and supply chain operations, empowering data-driven decision-making across the organization.  
 
 #### Key Insights and Outcomes
 
