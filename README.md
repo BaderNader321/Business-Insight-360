@@ -14,6 +14,7 @@
     * [Technical Details](#technical-details)
     * [Key Learnings](#key-learnings)
 * [Understanding the Datasets](#understanding-the-datasets)
+* [Data Modelling](#data-modelling)
 * [Dashboards](#dashboards)
 
 ### Company Details
@@ -174,6 +175,10 @@ Understanding what data is available will be more helpful while doing analysis. 
 ___
 
 [Back to the top](#business-insight-360)
+
+### Data Modelling
+
+<img src="" class="center">
 
 ### Dashboards
 **AtliQ Hardware** is committed to data-driven decision-making. To support this goal, we've developed a suite of PowerBI dashboards tailored to specific user needs.
