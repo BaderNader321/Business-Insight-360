@@ -8,6 +8,7 @@
 * [Company Details](#company-details)
 * [Project Overview](#project-overview)
     * [Business Problem](#business-problem)
+    * [Presentation](#presentation)
     * [Approach & Methodology](#approach-and-methodology)
     * [Key Insights & Outcomes](#key-insights-and-outcomes)
     * [Business Related Terms](#business-related-terms)
@@ -44,6 +45,8 @@ Recently, the company encountered unexpected losses due to the opening of a new 
 To ensure our long-term survival and competitiveness, AtliQ Hardware must establish its own analytics team. This team will be crucial in providing data-driven insights and supporting informed decision-making.
 
 During the project kickoff session, you will gain a clear understanding of the project’s objectives and rationale.
+
+#### Presentation
 
 #### Approach and Methodology
 
@@ -178,7 +181,7 @@ ___
 
 ### Data Modelling
 
-<img src="" class="center">
+<img src="https://github.com/BaderNader321/Business-Insight-360/blob/61d10d1d8a4f94f4a5bbfb453ccec580a7d26132/Data%20Modelling%20(BI%20360).png" class="center">
 
 ### Dashboards
 **AtliQ Hardware** is committed to data-driven decision-making. To support this goal, we've developed a suite of PowerBI dashboards tailored to specific user needs.
