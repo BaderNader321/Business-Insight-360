@@ -123,6 +123,66 @@ Looking deeper into the **Profit & Loss Statement**:
    - **Growth:** **+162%**  
    - It’s important to identify **which products or services** are driving this growth and explore whether the success can be replicated across other segments.
 
+#### Sales View 
+
+**Top 5 Customers by Net Sales (NS$)**  
+1. **Amazon**: **$496.9M**  
+2. **AtliQ Exclusive**: **$361.1M**  
+3. **AtliQ E-Store**: **$304.1M**  
+4. **Flipkart**: **$138.5M**  
+5. **Sage**: **$127.9M**  
+
+**Bottom 5 Customers by Net Sales (NS$)**  
+1. **Nova**: **$1.7M**  
+2. **All Out**: **$4.4M**  
+3. **Unity Stores**: **$6.3M**  
+4. **Otto**: **$6.5M**  
+5. **Saturn**: **$6.5M**  
+
+**Top 5 Categories by Net Sales (NS$)**  
+1. **Business Laptop**: **$765.25M**  
+2. **Gaming Laptop**: **$619.25M**  
+3. **Personal Laptop**: **$539.83M**  
+4. **Processors**: **$524.59M**  
+5. **Personal Desktop**: **$367.18M**
+
+**Bottom 5 Categories by Net Sales (NS$)**  
+1. **USB Flash Drives**: **$3.69M**  
+2. **Internal HDD**: **$37.41M**  
+3. **Wi-Fi Extender**: **$38.43M**  
+4. **External SSD**: **$50.90M**  
+5. **Batteries**: **$71.37M**  
+
+**Markets with Lower Gross Margin (GM%) and Net Sales (NS$)**  
+1. **Sweden**  
+2. **Netherlands**  
+3. **South Korea**  
+4. **Portugal**  
+5. **France**  
+
+#### **Marketing View**
+
+**Categories with Higher Net Sales (NS$) and Net Profit (NP%)**  
+1. **Personal Desktop**  
+2. **Business Laptop**  
+3. **Processor**  
+4. **Personal Laptop**  
+5. **Graphic Card**  
+
+**Top 5 Products by Gross Margin (GM%)**  
+1. **AQ Gamer 3**  
+2. **AQ 5000 Series Electron 5900X Desktop Processor**  
+3. **AQ Digit SSD**  
+4. **AQ BZ 101**  
+5. **AQ Neuer SSD**  
+
+**Top 5 Markets by Gross Margin (GM%)**  
+1. **Canada**  
+2. **China**  
+3. **Spain**  
+4. **Australia**  
+5. **USA**  
+
 #### **Supply Chain View**
 
 1. **Forecast Accuracy %:**
