@@ -123,6 +123,27 @@ Looking deeper into the **Profit & Loss Statement**:
    - **Growth:** **+162%**  
    - It’s important to identify **which products or services** are driving this growth and explore whether the success can be replicated across other segments.
 
+#### **Supply Chain View**
+
+1. **Forecast Accuracy %:**
+   - **Interpretation:** A forecast accuracy of 81.17% shows that your forecast is fairly reliable and close to the actual demand. The 1.2% improvement year-over-year indicates progress,         though small.
+   - **Significance:** High accuracy helps in inventory management, reducing stockouts or excess inventory.
+   - **Consideration:** While 81.17% is a good sign, aim for even higher accuracy, depending on industry standards (above 85%-90% is considered excellent in many sectors).
+  
+2. **Net Error:**
+   - **Interpretation:** A large negative net error of -3M indicates significant under-forecasting. While demand might be strong, under-forecasting can lead to:
+     - Stockouts (loss of sales opportunities)
+     - Disruptions in supply chains (urgent production/shipment increases).
+   - **Significance:** A 361.97% decrease shows a massive gap compared to last year. Underestimating demand is a critical issue that can impact customer satisfaction and revenue.
+   - **Considerations:** Investigate the causes of under-forecasting (e.g., unexpected demand spikes, changing customer behaviour, or inaccurate historical data). Improving forecasting         methods can help.
+
+3. **Absolute Error:**
+   - **Interpretation:** Unlike net error, absolute error focuses only on the magnitude of the error. A 7M absolute error means your forecasts deviate significantly from actual demand,         even though the accuracy improved slightly. A 29.46% increase indicates the forecast errors are growing, which is concerning. While accuracy improved, the scale of misalignment            increased, which could mean:
+     - Growing volatility in demand.
+     - A more unpredictable market.
+   - **Significance:** High absolute errors may lead to inefficiencies in inventory, production, and supply chain operations.
+   - **Interpretation:** Analyze demand variability and consider advanced forecasting models to reduce errors.
+
 #### Business Related Terms
 - **Gross Price:** The original selling price before any discounts or reductions.
 - **Pre-Invoice Deductions:** Discounts applied before the final bill is created.
