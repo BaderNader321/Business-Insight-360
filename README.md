@@ -144,6 +144,50 @@ Looking deeper into the **Profit & Loss Statement**:
    - **Significance:** High absolute errors may lead to inefficiencies in inventory, production, and supply chain operations.
    - **Interpretation:** Analyze demand variability and consider advanced forecasting models to reduce errors.
 
+In this section, we’ll focus on **Net Error**, **Absolute Error**, and **Forecast Accuracy** to assess performance.  
+
+**Top 3 Customers by High Forecast Accuracy (2022)**  
+> *Note: No customers achieved an accuracy rate between 80–90%.*  
+
+1. **AtliQ E-Store**: **74.22% Accuracy** (↓ 0.54% from last year)  
+2. **Amazon**: **73.79% Accuracy** (↓ 1.01% from last year)  
+3. **AtliQ Exclusive**: **70.35% Accuracy** (↓ 1.87% from last year)  
+
+**Bottom 3 Customers by Low Forecast Accuracy (2022)**  
+
+1. **Unity Stores**: **8.32% Accuracy** (↓ 81.35% from last year)  
+2. **Forward Stores**: **10.77% Accuracy** (↓ 78.79% from last year)  
+3. **Nova**: **17.70% Accuracy** (↓ 57.45% from last year)  
+
+**Top 3 Segments and Categories by High Forecast Accuracy (2022)**  
+
+1. **Networking**: **90.40% Accuracy**  
+   - **Category:** WiFi Extender  
+
+2. **Desktop**: **84.37% Accuracy**  
+   - **Categories:**  
+     - Personal: **88.81%**  
+     - Business Laptop: **83.23%**  
+
+3. **Storage**: **83.54% Accuracy**  
+   - **Categories:**  
+     - USB Flash Drives: **91.87%**  
+     - External SSD: **79.90%**  
+
+**Key Observations on Accuracy and Net Error Trends**  
+
+1. **Forecast Accuracy**  
+   - Accuracy fluctuates significantly, ranging between **50% and over 90%**.  
+   - This suggests the forecasting model struggles to maintain consistent performance.  
+
+2. **Net Error**  
+   - Net Error shows high variability, frequently shifting between **positive and negative values**.  
+   - This indicates the forecasts are prone to both **overestimation** and **underestimation**.  
+
+3. **Overall Trend**  
+   - There is no clear improving or worsening pattern in either Forecast Accuracy or Net Error.  
+   - The metrics remain **volatile**, pointing to a need for further **refinement** of the forecasting model.  
+
 #### Business Related Terms
 - **Gross Price:** The original selling price before any discounts or reductions.
 - **Pre-Invoice Deductions:** Discounts applied before the final bill is created.
