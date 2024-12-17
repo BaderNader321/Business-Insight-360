@@ -75,6 +75,58 @@ To deliver actionable insights for AtliQ Hardware, the project followed a system
    Delivered insights on financial performance, sales trends, marketing effectiveness, and supply chain operations, empowering data-driven decision-making across the organization.  
 
 #### Key Insights and Outcomes
+Here’s a simplified and more consistent version:
+
+---
+
+### Key Metrics and Insights  
+In this analysis, I’m focusing on **Net Sales (NS$)**, **Gross Margin (GM%)**, and **Net Profit (NP%)** to identify what influenced these numbers. I’ve also discussed these insights further in the presentation video.
+
+#### **Finance View**  
+
+1. **Net Sales (NS$)**  
+   - **2022 Net Sales:** $3.74B  
+   - **2021 Net Sales:** $823.8M  
+   - **Growth:** **+353.5%**  
+   - This strong increase reflects robust demand and solid sales performance for Atliq’s products.  
+
+2. **Gross Margin (GM%)**  
+   - **Gross Margin:** Improved by **4.37%** compared to last year.  
+   - This shows the company’s efficiency in managing production costs, as Gross Margin measures how effectively sales are converted into gross profit (before other expenses).  
+
+3. **Net Profit (NP%)**  
+   - **2022 Net Profit:** **-13.98%**  
+   - **2021 Net Profit:** **-6.63%**  
+   - The decline is concerning and primarily driven by **higher operating expenses** (e.g., marketing and promotions).
+
+##### **What’s Driving These Metrics?**  
+Looking deeper into the **Profit & Loss Statement**:
+
+1. **Gross Margin %**  
+  - **GM%:** 38.08%  
+  - Driven by a Gross Margin of **$1,422.88M**, calculated as the difference between Net Invoice Sales and Manufacturing Costs.  
+
+2. **Net Profit %**  
+  - Net profit is heavily impacted by **Operational Expenses**, which stand at **$1,945.30M**.  
+  - Since operational costs exceed the Gross Margin, the result is an overall net loss for the company.
+
+##### **Additional Insights from the P&L Statement**  
+
+1. **Deductions Breakdown**  
+   - **Pre-Invoice and Post-Invoice Deductions** (e.g., discounts, returns) grew significantly:  
+     - Pre-Invoice: **+340%**  
+     - Post-Invoice: **+341%**  
+   - This could indicate **aggressive discounting** or an increase in product returns.  
+
+2. **Cost of Goods Sold (COGS)**  
+   - **Manufacturing Costs**: **+341%**  
+   - **Freight Costs**: **+355%**  
+   - Rising freight costs might be due to **logistics issues**, **higher fuel prices**, or **increased shipment volumes**—worth further investigation.  
+
+3. **Gross Margin Per Unit**  
+   - **2022:** $15.76 per unit (up from $5.99)  
+   - **Growth:** **+162%**  
+   - It’s important to identify **which products or services** are driving this growth and explore whether the success can be replicated across other segments.
 
 #### Business Related Terms
 - **Gross Price:** The original selling price before any discounts or reductions.
