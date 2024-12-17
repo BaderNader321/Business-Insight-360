@@ -75,11 +75,6 @@ To deliver actionable insights for AtliQ Hardware, the project followed a system
    Delivered insights on financial performance, sales trends, marketing effectiveness, and supply chain operations, empowering data-driven decision-making across the organization.  
 
 #### Key Insights and Outcomes
-Here’s a simplified and more consistent version:
-
----
-
-### Key Metrics and Insights  
 In this analysis, I’m focusing on **Net Sales (NS$)**, **Gross Margin (GM%)**, and **Net Profit (NP%)** to identify what influenced these numbers. I’ve also discussed these insights further in the presentation video.
 
 #### **Finance View**  
@@ -103,12 +98,12 @@ In this analysis, I’m focusing on **Net Sales (NS$)**, **Gross Margin (GM%)**,
 Looking deeper into the **Profit & Loss Statement**:
 
 1. **Gross Margin %**  
-  - **GM%:** 38.08%  
-  - Driven by a Gross Margin of **$1,422.88M**, calculated as the difference between Net Invoice Sales and Manufacturing Costs.  
+   - **GM%:** 38.08%  
+   - Driven by a Gross Margin of **$1,422.88M**, calculated as the difference between Net Invoice Sales and Manufacturing Costs.  
 
 2. **Net Profit %**  
-  - Net profit is heavily impacted by **Operational Expenses**, which stand at **$1,945.30M**.  
-  - Since operational costs exceed the Gross Margin, the result is an overall net loss for the company.
+   - Net profit is heavily impacted by **Operational Expenses** like marketing and promotions, which stand at **$1,945.30M**.  
+   - Since operational costs exceed the Gross Margin, the result is an overall net loss for the company.
 
 ##### **Additional Insights from the P&L Statement**  
 
