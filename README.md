@@ -48,6 +48,28 @@ During the project kickoff session, you will gain a clear understanding of the p
 
 #### Presentation
 
+<div class="embed-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/4qEMS7RKdic?si=WqDuZ-ziIX9z-z_p" frameborder="0" allowfullscreen></iframe>
+</div>
+<style>
+  .embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .embed-container iframe,
+  .embed-container object,
+  .embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+</style>
+
 #### Approach and Methodology
 To deliver actionable insights for AtliQ Hardware, the project followed a systematic approach:
 
