@@ -47,28 +47,9 @@ To ensure our long-term survival and competitiveness, AtliQ Hardware must establ
 During the project kickoff session, you will gain a clear understanding of the project’s objectives and rationale.
 
 #### Presentation
+View the presentation video by clicking [here](https://youtu.be/4qEMS7RKdic) or on the image.
 
-<div class="embed-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/4qEMS7RKdic?si=WqDuZ-ziIX9z-z_p" frameborder="0" allowfullscreen></iframe>
-</div>
-<style>
-  .embed-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    height: 0;
-    overflow: hidden;
-    max-width: 100%;
-  }
-  .embed-container iframe,
-  .embed-container object,
-  .embed-container embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-</style>
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/4qEMS7RKdic/0.jpg)](https://www.youtube.com/watch?v=4qEMS7RKdic)
 
 #### Approach and Methodology
 To deliver actionable insights for AtliQ Hardware, the project followed a systematic approach:
