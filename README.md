@@ -9,7 +9,6 @@
 * [Company Details](#company-details)
 * [Project Overview](#project-overview)
     * [Business Problem](#business-problem)
-    * [Presentation](#presentation)
     * [Approach & Methodology](#approach-and-methodology)
     * [Key Insights & Outcomes](#key-insights-and-outcomes)
     * [Business Related Terms](#business-related-terms)
@@ -46,11 +45,6 @@ Recently, the company encountered unexpected losses due to the opening of a new 
 To ensure our long-term survival and competitiveness, AtliQ Hardware must establish its own analytics team. This team will be crucial in providing data-driven insights and supporting informed decision-making.
 
 During the project kickoff session, you will gain a clear understanding of the project’s objectives and rationale.
-
-#### Presentation
-View the presentation video by clicking [here](https://youtu.be/4qEMS7RKdic) or on the image.
-
-[![IMAGE ALT TEXT](https://img.youtube.com/vi/4qEMS7RKdic/0.jpg)](https://www.youtube.com/watch?v=4qEMS7RKdic)
 
 #### Approach and Methodology
 To deliver actionable insights for AtliQ Hardware, the project followed a systematic approach:
