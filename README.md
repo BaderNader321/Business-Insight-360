@@ -18,16 +18,16 @@
 * [Data Modelling](#data-modelling)
 * [Dashboards](#dashboards)
 
-### Company Details
+## Company Details
 **AtliQ Hardware** is a prominent electronics accessories company that specializes in providing a wide range of high-quality hardware solutions, including connectors, cables, circuit boards, and other essential components for electronic devices and systems. They cater to both individual consumers and businesses, emphasizing quality and performance to meet the evolving needs of their customers.
 
-#### Channels and Platforms
+### Channels and Platforms
 - **Retail Stores:** Physical locations such as Croma and Staples where customers can purchase AtliQ Hardware products.
 - **Distributors:** Third-party entities like Neptune that help distribute AtliQ Hardware products to various markets.
 - **Exclusive Showrooms:** Dedicated spaces, both physical and online, showcasing AtliQ Hardware products.
 - **Online Platforms:** E-commerce websites and platforms such as Amazon and Walmart where customers can buy AtliQ Hardware products.
 
-#### Customers
+### Customers
 - **Individual Consumers:** People purchasing hardware components for personal use.
 - **Businesses: Companies:** buying hardware solutions for their operations and projects, including top customers like Amazon, Neptune, Staples, and Walmart
 
@@ -35,18 +35,18 @@ ___
 
 [Back to the top](#business-insight-360)
 
-### Project Overview
+## Project Overview
 
 **AtliQ Hardware** has experienced significant growth in recent years. To maintain this momentum and gain a competitive edge, they've decided to leverage the power of data analytics. By implementing PowerBI, AtliQ aims to make data-driven decisions that will positively impact their finance, sales, marketing, and supply chain operations. This initiative is expected to provide valuable insights to stakeholders across all departments.
 
-#### Business Problem
+### Business Problem
 Recently, the company encountered unexpected losses due to the opening of a new store in America. This decision was primarily based on surveys, intuition, and basic Excel analysis. In contrast, our competitors possess dedicated analytics teams that leverage data-driven insights to inform their strategies.
 
 To ensure our long-term survival and competitiveness, AtliQ Hardware must establish its own analytics team. This team will be crucial in providing data-driven insights and supporting informed decision-making.
 
 During the project kickoff session, you will gain a clear understanding of the project’s objectives and rationale.
 
-#### Approach and Methodology
+### Approach and Methodology
 To deliver actionable insights for AtliQ Hardware, the project followed a systematic approach:
 
 1. **Understanding Business Objectives**  
@@ -72,7 +72,7 @@ To deliver actionable insights for AtliQ Hardware, the project followed a system
 7. **Actionable Insights and Recommendations**  
    Delivered insights on financial performance, sales trends, marketing effectiveness, and supply chain operations, empowering data-driven decision-making across the organization.  
 
-#### Key Insights and Outcomes
+### Key Insights and Outcomes
 In this analysis, I’m focusing on **Net Sales (NS$)**, **Gross Margin (GM%)**, and **Net Profit (NP%)** to identify what influenced these numbers. I’ve also discussed these insights further in the presentation video.
 
 #### **Finance View**  
@@ -246,7 +246,7 @@ In this section, we’ll focus on **Net Error**, **Absolute Error**, and **Forec
    - There is no clear improving or worsening pattern in either Forecast Accuracy or Net Error.  
    - The metrics remain **volatile**, pointing to a need for further **refinement** of the forecasting model.  
 
-#### Business Related Terms
+### Business Related Terms
 - **Gross Price:** The original selling price before any discounts or reductions.
 - **Pre-Invoice Deductions:** Discounts applied before the final bill is created.
 - **Post-Invoice Deductions:** Additional discounts or adjustments made after the bill is issued.
@@ -262,14 +262,14 @@ In this section, we’ll focus on **Net Error**, **Absolute Error**, and **Forec
 - **Distributors:** Companies that buy products from manufacturers and sell to retailers.
 - **Consumer:** The final person who buys and uses the product.
 
-#### Technical Details
+### Technical Details
 - **MySQL:** Utilized SQL databases to manage millions of rows of data, subsequently connecting them to Power BI.
 - **Power Query:** Employed Power Query for data transformation, cleaning, and merging multiple tables.
 - **Microsoft Excel:** Leveraged Excel to incorporate smaller, yet crucial datasets like targets, operating expenses, and market share data.
 - **Microsoft Power BI:** Primarily utilized Power BI for analytics and dashboard development to address business challenges.
 - **DAX Studio:** Employed DAX Studio to optimize report performance and accelerate response times across various dashboards.
 
-#### Key Learnings
+### Key Learnings
 - **Data Integration:** Connected data seamlessly from MySQL and Excel.
 - **ETL Process:** Cleaned and transformed data using Power Query.
 - **Data Modelling:** Designed Star and Snowflake schemas to connect related tables.
@@ -282,16 +282,16 @@ ___
 
 [Back to the top](#business-insight-360)
 
-### Understanding the Datasets
+## Understanding the Datasets
 Understanding what data is available will be more helpful while doing analysis. before jumping on to the analysis get good understanding of what are data available.
 
 - **Dimension table:** It will have the static data like details of customer and products
 
 - **Fact table:** It will have the data about the transactions  
 
-#### gdb041
+### gdb041
 
-  **dim_customer**
+**dim_customer**
 
 - **27** distinct markets (ex India, USA, spain)
 - **75** distinct customers thorough out the market
@@ -299,10 +299,10 @@ Understanding what data is available will be more helpful while doing analysis. 
   - Brick & Motors - Physical/offline store
   - E-commerce - Online Store (Amazon, flipkart)
         
-**Three channels**
- - Retailer
- - Direct
- - Distributors
+ **Three channels**
+  - Retailer
+  - Direct
+  - Distributors
 
 **dim_market**
 
@@ -347,7 +347,7 @@ Understanding what data is available will be more helpful while doing analysis. 
 
 - This table is more or less is same as fact_forecase_monthly table, but the last column has the value of sold quantity instead of forecast value.
 
-#### gdb056
+### gdb056
 
 **freight_cost**
  
@@ -373,11 +373,11 @@ ___
 
 [Back to the top](#business-insight-360)
 
-### Data Modelling
+## Data Modelling
 
 <img src="https://github.com/BaderNader321/Business-Insight-360/blob/61d10d1d8a4f94f4a5bbfb453ccec580a7d26132/Data%20Modelling%20(BI%20360).png" class="center">
 
-### Dashboards
+## Dashboards
 **AtliQ Hardware** is committed to data-driven decision-making. To support this goal, we've developed a suite of PowerBI dashboards tailored to specific user needs.
 
 - **Finance View:** Provides insights into financial performance, including revenue, expenses, and profitability.
@@ -386,27 +386,27 @@ ___
 - **Supply Chain View:** Provides visibility into supply chain operations, inventory levels, and logistics performance.
 - **Executive View:** Presents a high-level overview of key performance indicators (KPIs) across all business functions.
 
-#### Home Page
+### Home Page
 <br>
 <img src="https://github.com/BaderNader321/Business-Insight-360/blob/eeb539b51b969f448ce0ebe4f91bc33892b26a2d/Reports/2.png" class="center">
 
-#### Finance View
+### Finance View
 <br>
 <img src="https://github.com/BaderNader321/Business-Insight-360/blob/eeb539b51b969f448ce0ebe4f91bc33892b26a2d/Reports/3.png" class="center">
 
-#### Sales View
+### Sales View
 <br>
 <img src="https://github.com/BaderNader321/Business-Insight-360/blob/eeb539b51b969f448ce0ebe4f91bc33892b26a2d/Reports/4.png" class="center">
 
-#### Marketing View
+### Marketing View
 <br>
 <img src="https://github.com/BaderNader321/Business-Insight-360/blob/eeb539b51b969f448ce0ebe4f91bc33892b26a2d/Reports/5.png" class="center">
 
-#### Supply Chain View
+### Supply Chain View
 <br>
 <img src="https://github.com/BaderNader321/Business-Insight-360/blob/eeb539b51b969f448ce0ebe4f91bc33892b26a2d/Reports/6.png" class="center">
 
-#### Executive View
+### Executive View
 <br>
 <img src="https://github.com/BaderNader321/Business-Insight-360/blob/eeb539b51b969f448ce0ebe4f91bc33892b26a2d/Reports/7.png" class="center">
 
